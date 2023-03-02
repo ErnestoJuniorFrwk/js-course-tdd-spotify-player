@@ -1,0 +1,6 @@
+{
+  "angular2-switcher.templateFormats": [
+    ".html"
+  ],
+  "editor.formatOnType": true
+}
