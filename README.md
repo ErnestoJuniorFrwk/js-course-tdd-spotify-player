@@ -32,15 +32,15 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/willianjusten/spotify-wrapper-player/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository].
 
 ## Authors
 
-| ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)|
+| ![Ernesto Junior Ribarr](https://avatars.githubusercontent.com/u/21288466?v=4)|
 |:---------------------:|
-|  [Willian Justen](https://github.com/willianjusten/)   |
+|  [Ernesto Junior Ribarr](https://github.com/ErnestoJuniorFrwk/)   |
 
-See also the list of [contributors](https://github.com/willianjusten/spotify-wrapper-player/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ErnestoJuniorFrwk/spotify-wrapper-player/contributors) who participated in this project.
 
 ## License
 
